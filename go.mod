@@ -1,4 +1,4 @@
-module go_and_collect
+module GoGather 
 
 go 1.22.5
 
